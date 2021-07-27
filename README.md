@@ -30,4 +30,4 @@ Currently I'm searching for full-time positions as a software engineer as well a
 <h2>Where To Contact Me</h2>
 If you'd like to get in contact with me, feel free to email me at <a href="mailto: borroeljohn@gmail.com">borroeljohn@gmail.com</a> and I'll answer back as soon as I can!
 
-I'm also on <a href="https://www.linkedin.com/in/jonathan-borroel-2ab1441b3/">LinkedIn</a>!
+I'm also on <a href="https://www.linkedin.com/in/jonathanborroel/">LinkedIn</a>!
