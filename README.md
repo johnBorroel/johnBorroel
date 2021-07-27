@@ -6,10 +6,11 @@ I am a recent graduate of UCI with a B.S. in Computer Science with a specializat
 <ul>
   <li>Python</li>
   <li>C++</li>
+  <li>HTML/CSS</li>
+  <li>Javascript</li>
+  <li>SQL</li>
   <li>C</li>
   <li>JAVA</li>
-  <li>HTML/CSS</li>
-  <li>SQL</li>
 </ul>
 
 <h2>Things I've Worked On</h2>
